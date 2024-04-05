@@ -1,1 +1,5 @@
-# 101354361_COMP3133_Assignment2
+# 101354361_COMP3133_Assignment1
+
+Author: KOichi Kumo - (101354361)
+
+
